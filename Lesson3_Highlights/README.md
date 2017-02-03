@@ -4,15 +4,15 @@
 LIS 2360:  Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+Feburary 3rd, 2017
 
 ## Student Name:  
-(First and Last Name)
+Valerie Smith
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment is about learning the changes to source code and the use of version control systems.
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Version control allows team members to check files out, make changes, then check them back in.
+2. Three basic steps to GIT: Add, Commit and Push
+3. GIT is a distributed version control system designed to handle projects with mutiple users.
